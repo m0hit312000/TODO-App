@@ -108,4 +108,5 @@ button:active
     font-size: 30px;
     font-family: 'Oswald', sans-serif;    
     color: #f0f0f0; 
+    border-bottom: 2px solid silver;
 }

@@ -3,7 +3,6 @@ const input = document.querySelector('.input-area');
 const add = document.querySelector('.add');
 const rem = document.querySelector('.remove');
 var i = 0;
-const li, span;
 
 add.addEventListener('click', () => {
     
@@ -31,9 +30,9 @@ else
 rem.addEventListener('click', () => {
     
     var val = input.value;
-    for(let j=0;j<=i;j++)
-    {
-       if() 
-    }
+    // for(let j=0;j<=i;j++)
+    // {
+    //    if() 
+    // }
 
 });
